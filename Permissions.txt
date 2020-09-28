@@ -1,0 +1,42 @@
+KOTH.* (Access to every command within the plugin).
+KOTH.TIMES (Add or remove a KOTH time to broadcast a message at the specificed time).
+KOTH.VIEWLOOT (View the set loot).
+KOTH.SETLOOT (Sets the KOTH reward loot).
+KOTH.SETKOTH (Set the locations for a KOTH).
+KOTH.REMOVE (Remove a chosen KOTH).
+KOTH.END (End a selected KOTH).
+KOTH.END.ANON (End a KOTH anonymously).
+KOTH.START (Start a chosen KOTH).
+KOTH.START.ANON (Start a KOTH anonymously).
+KOTH.HELP (View the KOTH help command).
+KOTH.REWARDTYPE (Change the current reward type).
+KOTH.AUTOSTART (Set a auto starting KOTH).
+KOTH.SCHEDULER (Schedule a KOTH for a specific date).
+KOTH.LISTKOTHS (View the list of KOTHs).
+KOTH.DAILYSCHEDULE (Schedule daily KOTHs).
+KOTH.WEEKLYSCHEDULE (Schedule weekly KOTHs).
+KOTH.VIEWTIME (View the times of the scheduled KOTHs).
+KOTH.RECREATE (Change the capture zone of an existing KOTH).
+KOTH.GIVESTARTERITEM (Give a starter item).
+KOTH.USESTARTERITEM (Use a starter item).
+KOTH.COOLDOWNBYPASS (Bypass the cool down feature).
+KOTH.CAPTURE (Capture if this permission is enabled in config).
+KOTH.REMOVELOOTLOCATION (Remove a loot location).
+KOTH.SETLOOTLOCATION (Sets the loot chest locations).
+KOTH.TIMER (View all current active KOTHs and the time remaining).
+KOTH.GUI (Use the KOTH gui feature).
+KOTH.TP (Teleport to a KOTH).
+KOTH.VERSION (View the current version)
+KOTH.BYPASS (Bypass KOTH capture).
+KOTH.TOP (View the KOTH leaderboards).
+KOTH.REMOVESCHEDULE (Remove a scheduled KOTH).
+KOTH.VIEWIDS (View all scheduled IDs of a KOTH).
+KOTH.ADDLOOT (Add to the KOTH loot).
+KOTH.CLEARLOOT (Clear KOTH loot for a specified KOTH).
+KOTH.TOGGLESB (Toggle KOTH scoreboard).
+KOTH.KEY (Give a KOTH key).
+KOTH.SETREGION (Create a new region).
+KOTH.REMOVEREGION (Remove a set region).
+KOTH.NEXT (Use the /koth next command).
+KOTH.CLEARCMDS (Clear a koths reward cmds).
+KOTH.MESSAGES (View KOTH broadcasts if a permission is required from config).

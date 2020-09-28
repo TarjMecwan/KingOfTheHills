@@ -1,0 +1,121 @@
+KOTH Scoreboard Placeholders:
+
+- %x% - Displays the KOTHs X location.
+- %y% - Displays the KOTHs Y location.
+- %z% - Displays the KOTHs Z location.
+- %world% - Displays the KOTHs world name.
+- %timeleft% - Displays the time remaining for the KOTH.
+- %hoursleft% - Displays the hours remaining for the KOTH.
+- %minutesleft% - Displays the minutes remaining for the KOTH.
+- %secondsleft% - Displays the seconds remaining for the KOTH.
+- %player% - Displays the current capper.
+- %koth% - Displays the active KOTH name.
+- %faction% - Displays the faction of the player capturing.
+- %factionleader% - Displays the faction leader of the player capturing.
+- %points1_name% - 1st points name.
+- %points2_name% - 2nd points name.
+- %points3_name% - 3rd points name.
+- %points4_name% - 4th points name.
+- %points5_name% - 5th points name.
+- %points1_amount% - 1st points amount.
+- %points2_amount% - 2nd points amount.
+- %points3_amount% - 3rd points amount.
+- %points4_amount% - 4th points amount.
+- %points5_amount% - 5th points amount.
+- %distance% - Shows the distance in blocks the player is away from the KOTH.
+
+MvdWPlaceholders Placeholders:
+
+- {koth_last_capped_team} - Get the last team to cap a KOTH.
+- {koth_last_capped_player} - Get the last player to cap a KOTH.
+- {koth_time_left} - Time left formatted.
+- {koth_seconds_left} - Time left in seconds.
+- {koth_minutes_left} - Time left in minutes.
+- {koth_coordinate_x} - X coordinate of the active KOTH.
+- {koth_coordinate_y} - Y coordinate of the active KOTH.
+- {koth_coordinate_z} - Z coordinate of the active KOTH.
+- {koth_distance} - The distance from the active KOTH.
+- {koth_capping_players} - Players capturing.
+- {koth_capping_teams} - Team names capturing.
+- {koth_active} - All active KOTH names.
+- {koth_worlds} - All active KOTHs world.
+- {koth_scheduled_next} - Next scheduled KOTHs.
+- {koth_scheduled_countdown} - Countdown until next scheduled KOTH.
+- {koth_scheduled_name} - Get next scheduled KOTH name.
+- {koth_topteam_1} - Top KOTH team.
+- {koth_topteam_2} - 2nd KOTH team.
+- {koth_topteam_3} - 3rd KOTH team.
+- {koth_topteam_4} - 4th KOTH team.
+- {koth_topteam_5} - 5th KOTH team.
+- {koth_topplayer_1} - Top KOTH player.
+- {koth_topplayer_2} - 2nd KOTH player.
+- {koth_topplayer_3} - 3rd KOTH player.
+- {koth_topplayer_4} - 4th KOTH player.
+- {koth_topplayer_5} - 5th KOTH player.
+- {koth_points_1_name} - 1st points name.
+- {koth_points_2_name} - 2nd points name.
+- {koth_points_3_name} - 3rd points name.
+- {koth_points_4_name} - 4th points name.
+- {koth_points_5_name} - 5th points name.
+- {koth_points_1_amount} - 1st points amount.
+- {koth_points_2_amount} - 2nd points amount.
+- {koth_points_3_amount} - 3rd points amount.
+- {koth_points_4_amount} - 4th points amount.
+- {koth_points_5_amount} - 5th points amount.
+- {koth_time_left_<kothname>} 
+- {koth_seconds_left_<kothname>}
+- {koth_minutes_left_<kothname>} 
+- {koth_capping_players_<kothname>} 
+- {koth_capping_teams_<kothname>}
+- {koth_coordinate_x_<kothname>}
+- {koth_coordinate_y_<kothname>}
+- {koth_coordinate_z_<kothname>}
+- {koth_worlds_<kothname>}
+
+PlaceholderAPI Placeholders:
+
+- %koth_last_capped_team% - Get the last team to cap a KOTH.
+- %koth_last_capped_player% - Get the last player to cap a KOTH.
+- %koth_time_left% - Time left formatted.
+- %koth_seconds_left% - Time left in seconds.
+- %koth_minutes_left% - Time left in minutes.
+- %koth_coordinate_x% - X coordinate of the active KOTH.
+- %koth_coordinate_y% - Y coordinate of the active KOTH.
+- %koth_coordinate_z% - Z coordinate of the active KOTH.
+- %koth_distance% - The distance from the active KOTH.
+- %koth_capping_players% - Players capturing.
+- %koth_capping_teams% - Team names capturing.
+- %koth_active% - All active KOTH names.
+- %koth_worlds% - All active KOTHs world.
+- %koth_scheduled_next% - Next scheduled KOTH.
+- %koth_scheduled_countdown% - Countdown until next scheduled KOTH.
+- %koth_scheduled_name% - Get next scheduled KOTH name.
+- %koth_topteam_1% - Top KOTH team.
+- %koth_topteam_2% - 2nd KOTH team.
+- %koth_topteam_3% - 3rd KOTH team.
+- %koth_topteam_4% - 4th KOTH team.
+- %koth_topteam_5% - 5th KOTH team.
+- %koth_topplayer_1% - Top KOTH player.
+- %koth_topplayer_2% - 2nd KOTH player.
+- %koth_topplayer_3% - 3rd KOTH player.
+- %koth_topplayer_4% - 4th KOTH player.
+- %koth_topplayer_5% - 5th KOTH player.
+- %koth_points_1_name% - 1st points name.
+- %koth_points_2_name% - 2nd points name.
+- %koth_points_3_name% - 3rd points name.
+- %koth_points_4_name% - 4th points name.
+- %koth_points_5_name% - 5th points name.
+- %koth_points_1_amount% - 1st points amount.
+- %koth_points_2_amount% - 2nd points amount.
+- %koth_points_3_amount% - 3rd points amount.
+- %koth_points_4_amount% - 4th points amount.
+- %koth_points_5_amount% - 5th points amount.
+- %koth_time_left_<kothname>%
+- %koth_seconds_left_<kothname>%
+- %koth_minutes_left_<kothname>%
+- %koth_capping_players_<kothname>% 
+- %koth_capping_teams_<kothname>%
+- %koth_coordinate_x_<kothname>%
+- %koth_coordinate_y_<kothname>%
+- %koth_coordinate_z_<kothname>%
+- %koth_worlds_<kothname>%
